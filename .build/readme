@@ -1,0 +1,12 @@
+;
+; bring mysql-phpmyadmin up and create db first
+;
+# docker-compose up mysql-phpmyadmin
+;
+; sql>  CREATE DATABSE "post-tasks-manager"
+;
+
+;
+; run everything together
+;
+# docker-compose up
